@@ -46,7 +46,7 @@ If a dedicated GitHub account uses the username `asharsfoods` and the repository
 ## Business information currently used
 
 - WhatsApp / phone: `+92 330 342 3425`
-- Order timings: `3:00 PM – 1:00 AM`
+- Order timings: `11:30 AM – 1:30 AM`
 - Delivery areas: PWD, Soan Garden, CBR, Media Town, Pakistan Town, Korang Town
 
 ## Editing
